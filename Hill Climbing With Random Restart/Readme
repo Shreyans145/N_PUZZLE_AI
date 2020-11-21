@@ -1,1 +1,4 @@
 Random Restart algorithm and output
+
+Random-Restart Hill Climbing conducts a series of hill-climbing searches from randomly generated initial states, until a goal is found running each until it stops or makes no noticeable progress.
+Random-Restart Hill Climbing is complete if infinite (or sufficiently many tries) are allowed
