@@ -1,5 +1,4 @@
-# N_PUZZLE_AI
-
+# Artificial Intelligence : N-Puzzle Problem
 AI Project 
 
 Shreshth Bhatt: Steepest hill approach with Python
