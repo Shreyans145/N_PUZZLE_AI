@@ -10,8 +10,8 @@ In this instance we are generating 1000 test cases for testing the codes.
 
 The other two are Algorithms for Informed Search:
 
-* A* Looking for
-* Search for Selfish
+* A* Search
+* Greedy Search
 
 If we select a Informed Search Algorithm, a Heuristic Function would still need to be selected.
 
@@ -19,7 +19,5 @@ If we select a Informed Search Algorithm, a Heuristic Function would still need 
 Three separate Heuristic Functions are provided by N-Puzzle:
 
 
-* Radius from Euclidean
-* Manhattan Radius (distance from City-Block)
-* The Out-of-place Tiles
-
+* Euclidean Distance
+* Manhattan Distance 
